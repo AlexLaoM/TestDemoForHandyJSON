@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (4.9.0)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - Dynatrace (7.2.9.1254):
+    - Dynatrace/framework (= 7.2.9.1254)
+  - Dynatrace/framework (7.2.9.1254)
+  - HandyJSON (5.0.1)
+  - ObjectMapper (3.5.1)
+
+DEPENDENCIES:
+  - AlamofireObjectMapper (~> 5.2)
+  - Dynatrace (~> 7.0)
+  - HandyJSON (~> 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - Dynatrace
+    - HandyJSON
+    - ObjectMapper
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  Dynatrace: 2b18973542b16274b7070be56f4c777eba8607ab
+  HandyJSON: d45b8415c501e3affc59ca9762c1197ff0feb646
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+
+PODFILE CHECKSUM: e2726c650ce756cbd40763511ccc19033217eb32
+
+COCOAPODS: 1.8.4
